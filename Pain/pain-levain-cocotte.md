@@ -1,6 +1,7 @@
 # Pain au levain cuisson cocotte
 
 ## Ingrédients
+
 - 400ml d'eau
 - 280g de levain
 - 650g de farine T65 (Ou 550g de blé + 100g de seigle)
