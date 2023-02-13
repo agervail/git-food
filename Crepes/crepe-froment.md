@@ -15,6 +15,6 @@ Pour 20 crêpes
 
 ## Préparation
 
-- Versez tous les ingrédients sauf la farine et le lait puis battez
-- Ajoutez progressivement la farine et 120ml de lait jusqu'à ce qu'il n'y ait plus de grumeaux
-- Délayez ensuite 380ml de lait 
+- Verser tous les ingrédients sauf la farine et le lait puis battre
+- Ajouter progressivement la farine et 120ml de lait jusqu'à ce qu'il n'y ait plus de grumeaux
+- Délayer ensuite 380ml de lait 
