@@ -3,7 +3,7 @@
 ## Ingrédients
 - 400ml d'eau
 - 280g de levain
-- 700g de farine
+- 650g de farine T65 (Ou 550g de blé + 100g de seigle)
 - 10g de sel
 
 ## Préparation
