@@ -24,5 +24,6 @@
 - Retirer le couvercle baisser le four à 220°C puis cuire 15-20'
 
 ## Tips
+
 - Je rafraichis le levain vers 14h pour pouvoir finir la pâte vers 22h et avoir le pain le lendemain midi
 - A défaut d'un cocotte j'utilise un moule à pain en céramique, on peut aussi utiliser une cocotte en pyrex (avec un couvercle)
