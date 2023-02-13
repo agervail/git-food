@@ -13,7 +13,7 @@ Pour 15 crêpes
 
 ## Préparation
 
-- Dans un récipient verser tous les ingrédients sauf le lait
-- Remuer jusqu'à obtenir une boule compacte
-- Ajouter 120ml de lait et délayez puis battez environ 5' pour que la pâte soit parfaitement homogène
+- Dans un récipient versez tous les ingrédients sauf le lait
+- Remuez jusqu'à obtenir une boule compacte
+- Ajoutez 120ml de lait et délayez puis battez environ 5' pour que la pâte soit parfaitement homogène
 - Ajoutez progressivement le reste de lait
